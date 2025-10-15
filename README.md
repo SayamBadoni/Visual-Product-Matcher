@@ -2,7 +2,7 @@
 
 <p align="center">
 Free and open-source, fully customizable <b>professional Visual Image Matcher</b><br>
-🔗 <a href="https://visual-search-engine-six.vercel.app/" target="_blank">Live Demo</a> 
+🔗 <a href="https://visual-product-matcher-eight-blond.vercel.app/" target="_blank">Live Demo</a> 
 
 </p>
 
