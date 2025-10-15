@@ -1,0 +1,33 @@
+# =========================
+# General
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# =========================
+# Python
+# =========================
+# Virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# =========================
+# Node / Frontend
+# =========================
+node_modules/
+dist/
+*.lock
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Backend Uploads (optional, since these can be large)
+# =========================
+backend/uploads/
